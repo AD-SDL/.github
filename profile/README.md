@@ -7,6 +7,7 @@ Main repositories for the AD-SDL project at Argonne National Laboratory.
 - [The Rapid Prototyping Lab @ Argonne](https://rpl.cels.anl.gov/): developing software and solutions for autonomous discovery @ ANL
   - [RPL Documentation](https://rplab.readthedocs.io/en/latest/)
 - [The Modular Autonomous Discovery for Science (MADSci) Toolkit](https://github.com/AD-SDL/MADSci/): open source and modular software toolkit for autonomous discovery and self-driving labs
+  - [MADSci Examples](https://github.com/AD-SDL/MADSci_Examples/): example jupyter notebooks to help you get started using the MADSci toolkit
 - [The Workflow Execution Interface (WEI)](https://github.com/AD-SDL/wei): predecessor to MADSci
   - [WEI Documentation](https://rpl-wei.readthedocs.io/en/latest/index.html)
 - [Polybot](https://cnm.anl.gov/pages/polybot): autonomous discovery platform in ANL's Center for Nanoscale Materials
