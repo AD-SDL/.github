@@ -25,7 +25,7 @@ An incomplete list of integrated devices available for use in your automated and
 | camera_module         | USB webcams                                  | [camera_module](https://github.com/AD-SDL/camera_module) |
 | ur_module             | Universal Robotics Arms, end-effectors       | [ur_module](https://github.com/AD-SDL/ur_module) |
 | hidex_module          | Hidex Sense microplate reader                | [hidex_module](https://github.com/AD-SDL/hidex_module) |
-| big_kahuna_module     | Unchained Labs Big Kahuna                    | [big_kahuna_module](https://github.com/AD-SDL/big_kahuna_module) and [amews_big_kahuna_code]https://github.com/AD-SDL/amews_big_kahuna_code)|
+| big_kahuna_module     | Unchained Labs Big Kahuna                    | [big_kahuna_module](https://github.com/AD-SDL/big_kahuna_module) and [amews_big_kahuna_code](https://github.com/AD-SDL/amews_big_kahuna_code)|
 | hudson_solo_module    | Hudson SOLO                                 | [hudson_solo_module](https://github.com/AD-SDL/hudson_solo_module) |
 | hudson_platecrane_module | Hudson PlateCrane                        | [hudson_platecrane_module](https://github.com/AD-SDL/hudson_platecrane_module) |
 | a4s_sealer_module     | Azenta A4S Sealer                           | [a4s_sealer_module](https://github.com/AD-SDL/a4s_sealer_module) |
